@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-A dummy repository
+A dummy repository with a filly written README.
